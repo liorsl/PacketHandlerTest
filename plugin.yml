@@ -1,0 +1,4 @@
+name: PacketHandlerTest
+author: Voigon
+version: 1
+main: net.voigon.packethandlertest.PacketHandlerTest
